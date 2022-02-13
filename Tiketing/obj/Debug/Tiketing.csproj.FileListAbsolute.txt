@@ -1,0 +1,15 @@
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\bin\Debug\Tiketing.exe.config
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\bin\Debug\Tiketing.exe
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\bin\Debug\Tiketing.pdb
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\obj\Debug\Tiketing.MainForm.resources
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\obj\Debug\Tiketing.Properties.Resources.resources
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\obj\Debug\Tiketing.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\obj\Debug\Tiketing.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\obj\Debug\Tiketing.exe
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\obj\Debug\Tiketing.pdb
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\obj\Debug\Tiketing.EditForm.resources
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\bin\Debug\BazaDeDate.db
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\bin\Debug\System.Data.SQLite.dll
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\bin\Debug\System.Data.SQLite.xml
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\obj\Debug\Tiketing.csproj.CopyComplete
+C:\Users\Marius\Desktop\PAW\Tiketing\Tiketing\obj\Debug\Tiketing.csprojAssemblyReference.cache
